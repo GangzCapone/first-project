@@ -2,7 +2,7 @@ public class Converter {
     double rateUSD;
     double rateEUR;
     double rateJPY;
-    //000
+    
     Converter(double usd, double eur, double jpy) {
         rateUSD = usd;
         rateEUR = eur;
